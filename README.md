@@ -1,2 +1,3 @@
 巨匠github作業專案
 兩個都要下載不要少
+後端前端都用vscode or antigravity來啟動
